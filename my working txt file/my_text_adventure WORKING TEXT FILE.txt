@@ -1,0 +1,30 @@
+my_text_adventure WORKING TEXT FILE.
+
+
+Here are the project that codecademy provides. I need to build a program that have user choices, multiple outcomes. The code shall have LOOPS, VARIABLES and full range of what we went through.
+
+1) Hardest thing is to pick up a story to develop into the code.
+  - choosing your future career while finishing school.
+
+2) According to the Codecademy goal, I need to add  ASCII art to the title.
+
+  - let it be some arrows showing left, straight and right directions.
+
+3) Splitting each career in 3-4 ways to provide more choices.
+	- Programming engineer has 3 ways to become:
+		1) Start self-study while in school.
+		2) Right after finishing High-School enter IT courses.
+		3) Enter University for computer science study after High-School.
+		4) All the above - to be a real self-made genius with good knowledge and practice.
+
+4) 
+		a)	 One of the best choices.
+		It offers the opportunity to become a self-made specialist with countless ways to explore how everything works—not only in life but also in the field of IT.
+		It's also the longest and the hardest way to be the one. It will show all benefits of that way when you meet like-minded people in the future.
+		b) 	Good choice.
+		With that choice you can concentrate on general studies in your high-school and make sure that you have good grades.
+		And right after with good diploma in overall studies you enter university.
+
+		
+   
+
